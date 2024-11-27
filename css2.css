@@ -1,0 +1,24 @@
+body {
+  color: black;
+  justify-content: center;
+  display: flex;
+}
+#div1 {
+  margin: 20px;
+  padding: 30px;
+  text-align: center;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(166, 222, 155, 0.425);
+}
+
+.backbutton {
+  background-color: rgb(170, 255, 0);
+  border: 2px solid black;
+  border-radius: 30px;
+  color: black;
+  padding: 5px;
+  font-size: 20px;
+  
+}
